@@ -11,5 +11,5 @@ def multiply(a, b):
 def divide(a, b):
     return a/b
 
-def square(a, b):
+def square_premium(a, b):
     return a**b
