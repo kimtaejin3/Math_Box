@@ -25,3 +25,6 @@ def get_abs(a):
         return a
     else:
         return -a
+
+def get_percent(a, b):
+    return (a/b) * 100
